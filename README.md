@@ -26,5 +26,3 @@
 2. CSS
 3. HTML
 4. JavaScript
-
-### Screenshots
